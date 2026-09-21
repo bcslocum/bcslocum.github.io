@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is for my Lab 5 assignment for PAF 514!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bridget Slocum. I am a student at Arizona State University:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Program: Program Evaluation and Data Analytics (MS)
+- College: Watts College of Public Service & Community Solutions
+- University: Arizona State University
+  
 
-What else do you need?
+### PAF 514
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Course code: PAF 514
+- Course Title: Foundations of Data Science Part II: Data Wrangling 
+- Session: 2026 Fall A
+- Instructor: Courtney Stowers, M.S
