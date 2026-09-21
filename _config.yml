@@ -6,13 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: PAF 514: LAB 5
+title: "PAF 514: LAB 5"
 
 # Short description of your site
-description: Creating a GitHub Page for Lab 5 for PAF 514.
+description: "Creating a GitHub Page for Lab 5 for PAF 514."
 
 # Your name to show in the footer
-author: Bridget Slocum
+author: "Bridget Slocum"
 
 # --- List of links in the navigation bar --- #
 
@@ -68,7 +68,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Creating a GitHub Page for Lab 5 for PAF 514.
+rss-description: "Creating a GitHub Page for Lab 5 for PAF 514."
 
 # --- General options --- #
 
