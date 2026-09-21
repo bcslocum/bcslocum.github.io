@@ -104,14 +104,13 @@ post_search: true
 
 navbar-col: "#FFC627"
 navbar-text-col: "#000000"
-navbar-border-col: "#8C1D40"
+navbar-children-col: "#8C1D40"
 page-col: "#FFFFFF"
-text-col: "#000000"
 link-col: "#8C1D40"
 hover-col: "#FFC627"
-footer-col: "#FFC627"
-footer-text-col: "#000000"
-footer-link-col: "#8C1D40"
+footer-col: "#8C1D40"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFC627"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
